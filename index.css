@@ -1,0 +1,43 @@
+.img{
+ 
+    width: 100px;
+   
+}
+.contenu2{
+     margin: 5%;
+}
+ .contenu3{ 
+     margin-left: 33%;
+ }
+ .mySlides{
+ border-radius: 30px;-webkit-box-shadow: 5px 5px 15px 5px #FF8080, -9px 5px 15px 5px #FFE488, -7px -5px 15px 5px #8CFF85, 12px -5px 15px 5px #80C7FF, 12px 10px 15px 7px #E488FF, -10px 10px 15px 7px #FF616B, -10px -7px 27px 1px #8E5CFF, -4px 3px 13px 13px rgba(0,0,0,0); 
+ box-shadow: 5px 5px 15px 5px #FF8080, -9px 5px 15px 5px #FFE488, -7px -5px 15px 5px #8CFF85, 12px -5px 15px 5px #80C7FF, 12px 10px 15px 7px #E488FF, -10px 10px 15px 7px #FF616B, -10px -7px 27px 1px #8E5CFF, -4px 3px 13px 13px rgba(0,0,0,0);
+ }
+ button{
+width: 100px;
+height: 40px;
+  }
+ .btn{
+    margin-top: 5%;
+    margin-left: 45%;
+  
+ }
+  .TXT{ 
+ font-size: 100pt;
+ color: #bde1e8;
+ font-family: 'Pacifico', cursive;
+ position: absolute;
+ top: 2%;
+ left: 33%;
+
+  }
+  
+  .titel{
+    font-size: 20pt;
+    color: #c34f80;
+    font-family: 'Pacifico', cursive;
+width: 900px;
+    
+
+
+  }
